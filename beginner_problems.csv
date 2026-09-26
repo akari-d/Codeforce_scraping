@@ -1,0 +1,23 @@
+problem_id,title,rating,tags,solved_count,url,scraped_date,rank
+2254A,Riptide,800.0,"implementation, sortings",36681,/problemset/problem/2254/A,2026-09-27,1
+2259A,Moo Language School,800.0,"brute force, greedy, greedy, greedy, greedy, two pointers",26976,/problemset/problem/2259/A,2026-09-27,2
+2254B,Evanescent,900.0,"implementation, strings, two pointers",25516,/problemset/problem/2254/B,2026-09-27,3
+2256A,Three Numbers on the Blackboard,800.0,"math, math, math, math, sortings",25475,/problemset/problem/2256/A,2026-09-27,4
+2259B,Minus Two,800.0,"math, number theory, number theory, number theory, number theory, number theory",23923,/problemset/problem/2259/B,2026-09-27,6
+2253A,The Best Card,800.0,"greedy, math, number theory",21396,/problemset/problem/2253/A,2026-09-27,8
+2257A,Creating Abbreviations,800.0,"brute force, strings",20818,/problemset/problem/2257/A,2026-09-27,9
+2254C1,Marenol (easy version),1000.0,greedy,20272,/problemset/problem/2254/C1,2026-09-27,10
+2260A,Monocarp's Contest,800.0,implementation,19534,/problemset/problem/2260/A,2026-09-27,11
+2250A,Threshold Movement,800.0,"brute force, implementation, math",19180,/problemset/problem/2250/A,2026-09-27,12
+2258A,Odd Eraser,800.0,math,19084,/problemset/problem/2258/A,2026-09-27,13
+2257B,Gigantomachy,800.0,"math, math",18991,/problemset/problem/2257/B,2026-09-27,14
+2252A,Boss Fight,800.0,"data structures, greedy, greedy",18890,/problemset/problem/2252/A,2026-09-27,15
+2259C,101,1000.0,"constructive algorithms, greedy",17917,/problemset/problem/2259/C,2026-09-27,16
+2256B,Domino Tiles,1000.0,"implementation, math",16998,/problemset/problem/2256/B,2026-09-27,17
+2263A,Min Max Game,800.0,games,16285,/problemset/problem/2263/A,2026-09-27,18
+2258B1,Carrot Chopdown (Easy Version),900.0,"brute force, games, math",15354,/problemset/problem/2258/B1,2026-09-27,20
+2250B,String Construction,1000.0,"constructive algorithms, constructive algorithms",15221,/problemset/problem/2250/B,2026-09-27,21
+2260B,Monocarp and Projects,900.0,"brute force, math, number theory",15088,/problemset/problem/2260/B,2026-09-27,22
+2264A,Rumb Needs a Hand,800.0,"implementation, implementation, implementation, sortings, sortings, sortings, two pointers, two pointers, two pointers",14276,/problemset/problem/2264/A,2026-09-27,25
+2263B,Min Matrices,900.0,"constructive algorithms, constructive algorithms, constructive algorithms, constructive algorithms, constructive algorithms",12343,/problemset/problem/2263/B,2026-09-27,31
+2264B,Knife's Pill Farm,1000.0,"data structures, greedy, math",10300,/problemset/problem/2264/B,2026-09-27,35

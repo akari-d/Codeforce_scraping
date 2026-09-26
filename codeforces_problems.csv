@@ -1,0 +1,101 @@
+problem_id,title,rating,tags,solved_count,url,scraped_date
+2269B,KiaKio and Squared Numbers,,"brute force, implementation",7579,/problemset/problem/2269/B,2026-09-27
+2269A,SauSaGe Bank,,"greedy, math",10705,/problemset/problem/2269/A,2026-09-27
+2268F,Deglado,,constructive algorithms,8,/problemset/problem/2268/F,2026-09-27
+2268E,Kia Kio and Tree of Life,,"data structures, fft",100,/problemset/problem/2268/E,2026-09-27
+2268D,AghaBalaSar and Hamed,,dp,197,/problemset/problem/2268/D,2026-09-27
+2268C,KiaKio and Energy Intervals,,"binary search, bitmasks, data structures, greedy",466,/problemset/problem/2268/C,2026-09-27
+2268B,What a SauSaGe! It's All Meat,,"bitmasks, math",3775,/problemset/problem/2268/B,2026-09-27
+2268A,K Is Important,,"constructive algorithms, greedy",6423,/problemset/problem/2268/A,2026-09-27
+2267G,New LRT,,dp,144,/problemset/problem/2267/G,2026-09-27
+2267F2,XOR Transformations (Hard Version),,"bitmasks, brute force, data structures, dfs and similar, greedy, sortings, strings, trees",526,/problemset/problem/2267/F2,2026-09-27
+2267F1,XOR Transformations (Easy Version),,"bitmasks, brute force, implementation, sortings",3046,/problemset/problem/2267/F1,2026-09-27
+2267E,Clean Substrings,,"combinatorics, data structures, math",1337,/problemset/problem/2267/E,2026-09-27
+2267D,Backrooms Hill,,"constructive algorithms, dp, greedy, sortings, two pointers",5690,/problemset/problem/2267/D,2026-09-27
+2267C,GCD Treasury,,"greedy, math, number theory",8245,/problemset/problem/2267/C,2026-09-27
+2267B,Fashionable Array,,"brute force, constructive algorithms, sortings",12610,/problemset/problem/2267/B,2026-09-27
+2267A,Turn Into a Palindrome,,"greedy, strings",15740,/problemset/problem/2267/A,2026-09-27
+2266H,Deque Malfunction,,"binary search, data structures, dp, greedy",293,/problemset/problem/2266/H,2026-09-27
+2266G,Modular Tree,,"dfs and similar, dp, greedy, math, number theory, trees",691,/problemset/problem/2266/G,2026-09-27
+2266F,MEX Replacement,,"binary search, brute force, greedy, implementation, math, sortings",1488,/problemset/problem/2266/F,2026-09-27
+2266E,Prime Destruction,,"brute force, dp, math, number theory",5921,/problemset/problem/2266/E,2026-09-27
+2266D,Falling Concrete,,"constructive algorithms, data structures, math, sortings",7587,/problemset/problem/2266/D,2026-09-27
+2266C,"AND, OR, Sort!",,"greedy, strings",14563,/problemset/problem/2266/C,2026-09-27
+2266B,Three Piles,,"games, greedy, math",22099,/problemset/problem/2266/B,2026-09-27
+2266A,Good Contest,,greedy,25125,/problemset/problem/2266/A,2026-09-27
+2264F,Deranged Calculator,2800,"constructive algorithms, implementation, math",342,/problemset/problem/2264/F,2026-09-27
+2264E2,A Prime Flood (Hard Version),2700,"brute force, combinatorics, combinatorics, combinatorics, dp, dp, number theory, number theory",375,/problemset/problem/2264/E2,2026-09-27
+2264E1,A Prime Flood (Easy Version),2200,"combinatorics, dp, number theory",1137,/problemset/problem/2264/E1,2026-09-27
+2264D,Dr. Agos's Dark Mode,1900,"brute force, chinese remainder theorem, constructive algorithms, math, strings",2107,/problemset/problem/2264/D,2026-09-27
+2264C,Madamant's Skating Dynasty,1400,"combinatorics, math, sortings",6410,/problemset/problem/2264/C,2026-09-27
+2264B,Knife's Pill Farm,1000,"data structures, greedy, math",10300,/problemset/problem/2264/B,2026-09-27
+2264A,Rumb Needs a Hand,800,"implementation, implementation, implementation, sortings, sortings, sortings, two pointers, two pointers, two pointers",14276,/problemset/problem/2264/A,2026-09-27
+2263B,Min Matrices,900,"constructive algorithms, constructive algorithms, constructive algorithms, constructive algorithms, constructive algorithms",12343,/problemset/problem/2263/B,2026-09-27
+2263A,Min Max Game,800,games,16285,/problemset/problem/2263/A,2026-09-27
+2262F,Rank Removal,3500,math,158,/problemset/problem/2262/F,2026-09-27
+2262E,Paired Bracket Sequences,3100,"combinatorics, math",176,/problemset/problem/2262/E,2026-09-27
+2262D,PLUSworld,2900,"constructive algorithms, graphs, greedy",316,/problemset/problem/2262/D,2026-09-27
+2262C,Traveling the World,2300,"combinatorics, constructive algorithms, graphs, greedy, math",871,/problemset/problem/2262/C,2026-09-27
+2262B,Culling Game,2000,"binary search, data structures, implementation, two pointers",1810,/problemset/problem/2262/B,2026-09-27
+2262A2,Floor of MEX (Hard Version),1800,"dp, implementation, math",2870,/problemset/problem/2262/A2,2026-09-27
+2262A1,Floor of MEX (Easy Version),1200,"constructive algorithms, greedy",9142,/problemset/problem/2262/A1,2026-09-27
+2260G,Sortable Permutations,2900,"brute force, combinatorics, math, number theory",223,/problemset/problem/2260/G,2026-09-27
+2260F,Edge Three-Coloring,2500,"brute force, dfs and similar, dsu, graphs, trees",537,/problemset/problem/2260/F,2026-09-27
+2260E,Cyclic Balance,2000,"binary search, constructive algorithms, dp, math",1846,/problemset/problem/2260/E,2026-09-27
+2260D,Signs of Prefix Sums,1700,"brute force, constructive algorithms, dfs and similar, dp, implementation",4745,/problemset/problem/2260/D,2026-09-27
+2260C,"Maximize XOR, Minimize Operations",1300,"bitmasks, greedy",9898,/problemset/problem/2260/C,2026-09-27
+2260B,Monocarp and Projects,900,"brute force, math, number theory",15088,/problemset/problem/2260/B,2026-09-27
+2260A,Monocarp's Contest,800,implementation,19534,/problemset/problem/2260/A,2026-09-27
+2259H,Treasure Map Destruction (Counting Version),2200,"dfs and similar, dp, dsu, graphs, math",928,/problemset/problem/2259/H,2026-09-27
+2259G,Index Removal,1900,"binary search, data structures, math",2487,/problemset/problem/2259/G,2026-09-27
+2259F,Binary Bubble Sort Inversions,1800,"data structures, math, two pointers",3377,/problemset/problem/2259/F,2026-09-27
+2259E,Treasure Map Destruction (Constructive Version),1500,"2-sat, constructive algorithms, constructive algorithms, greedy, greedy",6174,/problemset/problem/2259/E,2026-09-27
+2259D,MEX Multiset,1200,"constructive algorithms, greedy",13117,/problemset/problem/2259/D,2026-09-27
+2259C,101,1000,"constructive algorithms, greedy",17917,/problemset/problem/2259/C,2026-09-27
+2259B,Minus Two,800,"math, number theory, number theory, number theory, number theory, number theory",23923,/problemset/problem/2259/B,2026-09-27
+2259A,Moo Language School,800,"brute force, greedy, greedy, greedy, greedy, two pointers",26976,/problemset/problem/2259/A,2026-09-27
+2258F,Plus Minus Tree,3000,"data structures, dfs and similar, dp, graphs, greedy, trees",255,/problemset/problem/2258/F,2026-09-27
+2258E,DivMEX,2400,"data structures, math, math, number theory",796,/problemset/problem/2258/E,2026-09-27
+2258D,Magic Tiles,2500,"dp, greedy, implementation",519,/problemset/problem/2258/D,2026-09-27
+2258C,Far Cities,1600,"interactive, trees, two pointers",5176,/problemset/problem/2258/C,2026-09-27
+2258B2,Carrot Chopdown (Hard Version),1600,"brute force, greedy, implementation, math",4991,/problemset/problem/2258/B2,2026-09-27
+2258B1,Carrot Chopdown (Easy Version),900,"brute force, games, math",15354,/problemset/problem/2258/B1,2026-09-27
+2258A,Odd Eraser,800,math,19084,/problemset/problem/2258/A,2026-09-27
+2257F2,Beaver's Jumping Track (Hard Version),2700,"data structures, dp, matrices",405,/problemset/problem/2257/F2,2026-09-27
+2257F1,Beaver's Jumping Track (Easy Version),2500,"data structures, dp, matrices",683,/problemset/problem/2257/F1,2026-09-27
+2257E,Busy Beaver,2100,"brute force, data structures, divide and conquer, dp, greedy, implementation, sortings",2154,/problemset/problem/2257/E,2026-09-27
+2257D,Bermuda Rectangle,1600,"binary search, implementation, math, number theory, two pointers",6489,/problemset/problem/2257/D,2026-09-27
+2257C,Spying on the Beaver,1200,"constructive algorithms, dfs and similar, dsu, graphs, trees",12022,/problemset/problem/2257/C,2026-09-27
+2257B,Gigantomachy,800,"math, math",18991,/problemset/problem/2257/B,2026-09-27
+2257A,Creating Abbreviations,800,"brute force, strings",20818,/problemset/problem/2257/A,2026-09-27
+2256B,Domino Tiles,1000,"implementation, math",16998,/problemset/problem/2256/B,2026-09-27
+2256A,Three Numbers on the Blackboard,800,"math, math, math, math, sortings",25475,/problemset/problem/2256/A,2026-09-27
+2255F,Who Will Witness the End?,3100,"fft, math, math",296,/problemset/problem/2255/F,2026-09-27
+2255E2,What Will Remain at the End? (Hard Version),3400,data structures,261,/problemset/problem/2255/E2,2026-09-27
+2255E1,What Will Remain at the End? (Easy Version),2900,"brute force, data structures, data structures",285,/problemset/problem/2255/E1,2026-09-27
+2255D,How Long Until Nothing Remains?,2300,"binary search, bitmasks, data structures, greedy, math, sortings",1609,/problemset/problem/2255/D,2026-09-27
+2255C,Even If the World Turns,2100,"communication, constructive algorithms, expression parsing, greedy, interactive, math, number theory",1622,/problemset/problem/2255/C,2026-09-27
+2255B,A Ribbon for Tomorrow,1600,"combinatorics, math",7316,/problemset/problem/2255/B,2026-09-27
+2255A,Hot Potatoes at the Fairy Warehouse,1200,"games, greedy, implementation",13897,/problemset/problem/2255/A,2026-09-27
+2254G,Nightcrawler,2200,"data structures, dfs and similar, dp, greedy, greedy, sortings, trees",1270,/problemset/problem/2254/G,2026-09-27
+2254F,Whiplash,1900,"bitmasks, constructive algorithms, math, sortings",3486,/problemset/problem/2254/F,2026-09-27
+2254E,Chronostasis,1500,"binary search, data structures, greedy",8134,/problemset/problem/2254/E,2026-09-27
+2254D,Silhouette,1300,"constructive algorithms, math, sortings",10931,/problemset/problem/2254/D,2026-09-27
+2254C2,Marenol (hard version),1200,"greedy, sortings",14358,/problemset/problem/2254/C2,2026-09-27
+2254C1,Marenol (easy version),1000,greedy,20272,/problemset/problem/2254/C1,2026-09-27
+2254B,Evanescent,900,"implementation, strings, two pointers",25516,/problemset/problem/2254/B,2026-09-27
+2254A,Riptide,800,"implementation, sortings",36681,/problemset/problem/2254/A,2026-09-27
+2253F,4-beauty,2600,"bitmasks, dp, graphs, math, number theory",527,/problemset/problem/2253/F,2026-09-27
+2253E,Diameter Intersections,2200,"brute force, dfs and similar, fft, graphs, implementation, trees",1435,/problemset/problem/2253/E,2026-09-27
+2253D,Hypercarp and Interdimensional Jumps,1800,"binary search, brute force, geometry, greedy, implementation, math",3525,/problemset/problem/2253/D,2026-09-27
+2253C,Sum of Distinct Values in a Matrix,1500,"greedy, sortings, two pointers",8085,/problemset/problem/2253/C,2026-09-27
+2253B,Hypercarp and the Control Panel,1100,"brute force, data structures, two pointers",12454,/problemset/problem/2253/B,2026-09-27
+2253A,The Best Card,800,"greedy, math, number theory",21396,/problemset/problem/2253/A,2026-09-27
+2252F,Spectral Components,2600,"dfs and similar, dp, dp, greedy, sortings, trees",553,/problemset/problem/2252/F,2026-09-27
+2252E,Generational Triplets,2100,"bitmasks, combinatorics, dp, math",1850,/problemset/problem/2252/E,2026-09-27
+2252D,Array Replacement,1700,"greedy, sortings",5474,/problemset/problem/2252/D,2026-09-27
+2252C,Risky Tower,1400,"binary search, brute force, data structures, greedy, sortings",10171,/problemset/problem/2252/C,2026-09-27
+2252B,Always Changing,1100,"dp, greedy, math, strings",12998,/problemset/problem/2252/B,2026-09-27
+2252A,Boss Fight,800,"data structures, greedy, greedy",18890,/problemset/problem/2252/A,2026-09-27
+2250B,String Construction,1000,"constructive algorithms, constructive algorithms",15221,/problemset/problem/2250/B,2026-09-27
+2250A,Threshold Movement,800,"brute force, implementation, math",19180,/problemset/problem/2250/A,2026-09-27
